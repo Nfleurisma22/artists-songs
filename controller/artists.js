@@ -1,3 +1,4 @@
+//controller artist.
 const artistModel = require('../models/artist');
 
 const readAll =(request, response) => {
